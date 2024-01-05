@@ -19,9 +19,9 @@
 
 # Databases
 
-| SQL | PostgreSQL |
-|:---:|:----------:|
-| <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" /> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /> |
+| SQL |
+|:---:|
+| <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> |
 
 
 ## Contatos:
