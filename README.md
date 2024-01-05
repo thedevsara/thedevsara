@@ -1,29 +1,24 @@
 ## Hello devs, my name is Sara Vieira!🌑
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/thedevsara/thedevsara/assets/142101366/a74fd5df-22c9-42b7-b838-5b4daa2666be">
+
+
 *- Tenho 22 aninhos, migrei na área sem nenhum tipo de conhecimento prévio e hoje sou completamente apaixonada pelo que escolhi, pretendo seguir muito nessa carreira. Atualmente em formação em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí(IFPI), me aventuro em todas as áreas que o universo de tecnologia pode proporcionar, mestre em criar bugs e não tem essa de qual a linguagem que eu mais gosto!*
-
-
-<div align="center">
-<img src="https://github.com/thedevsara/thedevsara/assets/142101366/6893df73-7707-4e1d-8767-91ed63b70b4b" width="200px" />
-</div>
-
-<div align="center">
-<img src="" width="200px" />
-</div>
 
 <br>
 
 ## My stats: :bar_chart:
-<div>
+<p align="center">
 <a href="https://github.com/thedevsara">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevsara&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thedevsara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thedevsara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thedevsara&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br>
 
-## I am learning 💪
+# 🖥️ Tecnologias e Ferramentas:
+<img width="300px" align="right" src="https://github.com/thedevsara/thedevsara/assets/142101366/6893df73-7707-4e1d-8767-91ed63b70b4b">
 
-**Programming Languages**
+## Programming Languages
 
 | Python | JavaScript | TypeScript | C |
 |:------:|:----------:|:----------:|:-:|
