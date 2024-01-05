@@ -5,8 +5,11 @@
 *- Tenho 22 aninhos, migrei na área sem nenhum tipo de conhecimento prévio e hoje sou completamente apaixonada pelo que escolhi, pretendo seguir muito nessa carreira. Atualmente em formação em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí(IFPI), me aventuro em todas as áreas que o universo de tecnologia pode proporcionar, mestre em criar bugs e não tem essa de qual a linguagem que eu mais gosto!*
 
 <br>
+<br>
 
 ## My stats: :bar_chart:
+
+<br>
 <p align="center">
 <a href="https://github.com/thedevsara">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thedevsara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -15,33 +18,26 @@
 </p>
 <br>
 
-# 🖥️ Tecnologias e Ferramentas:
+## Developing skills in: 💪🖥️
 <img width="300px" align="right" src="https://github.com/thedevsara/thedevsara/assets/142101366/6893df73-7707-4e1d-8767-91ed63b70b4b">
 
-## Programming Languages
+### Technologies
 
-| Python | JavaScript | TypeScript | C |
-|:------:|:----------:|:----------:|:-:|
-| <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /> | <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" /> |
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />  <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />  <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>  <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />  <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />  <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 
+### Databases
 
-## Databases
-
-| MySQL | PostgreSQL |
-|:-----:|:----------:|
-| <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"> | <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"> |
+<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"> <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"> 
 
 
-## Tools
+### Tools
 
-| VS Code | Git | GitHub |
-|:-------:|:---:|:------:|
-| <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> | <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="GitHub" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"> |
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="GitHub" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 
 <br>
 
 
-## Contatos:
+### Contacts:
 
 <div>
 <a href="https://instagram.com/saravieira.dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
