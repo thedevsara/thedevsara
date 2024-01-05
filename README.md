@@ -1,8 +1,11 @@
 ## Hello devs, my name is Sara Vieira!🌑
 *- Tenho 22 aninhos, migrei na área sem nenhum tipo de conhecimento prévio e hoje sou completamente apaixonada pelo que escolhi, pretendo seguir muito nessa carreira. Atualmente em formação em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí(IFPI), me aventuro em todas as áreas que o universo de tecnologia pode proporcionar, mestre em criar bugs e não tem essa de qual a linguagem que eu mais gosto!*
 
-<div align="center"
-img src="![foto2](https://github.com/thedevsara/thedevsara/assets/142101366/88faebec-27bc-45f4-b1f4-6bfa4cb23208)" width="700px" />
+![foto2](https://github.com/thedevsara/thedevsara/assets/142101366/e0c9d361-cd16-45ef-afb9-08c49d0181f9)
+
+
+<div align="center">
+<img src="![foto2](https://github.com/thedevsara/thedevsara/assets/142101366/e0c9d361-cd16-45ef-afb9-08c49d0181f9)" width="200px" />
 </div>
 
 <br>
