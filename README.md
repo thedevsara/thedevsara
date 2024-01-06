@@ -7,7 +7,7 @@
 <br>
 <br>
 
-## My stats: :bar_chart:
+## GitHub Stats⚡
 
 <br>
 <p align="center">
@@ -18,32 +18,34 @@
 </p>
 <br>
 
-## Developing skills in: 💪🖥️
+## 🖥️ Developing skills in: 💪
 <img width="300px" align="right" src="https://github.com/thedevsara/thedevsara/assets/142101366/6893df73-7707-4e1d-8767-91ed63b70b4b">
 
-### Technologies
+### *Technologies*
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />  <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />  <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>  <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />  <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />  <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 
-### Databases
+### *Databases*
 
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"> <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"> 
 
 
-### Tools
+### *Tools*
 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="GitHub" alt="GitHub" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 
 <br>
 
 
-### Contacts:
+## Contacts:
 
 <div>
 <a href="https://instagram.com/saravieira.dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:srbecky02@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sara-vieira-64189b1b3" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <div>
+
+![Snake animation](https://github.com/thedevsara/thedevsara/blob/output/github-contribution-grid-snake.svg
 
 
 
