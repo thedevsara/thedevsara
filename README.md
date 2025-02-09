@@ -2,7 +2,7 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/thedevsara/thedevsara/assets/142101366/a74fd5df-22c9-42b7-b838-5b4daa2666be">
 
 
-*- Tenho 22 aninhos, migrei na área sem nenhum tipo de conhecimento prévio e hoje sou completamente apaixonada pelo que escolhi, pretendo seguir muito nessa carreira. Atualmente em formação em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí(IFPI), me aventuro em todas as áreas que o universo de tecnologia pode proporcionar, mestre em criar bugs e não tem essa de qual a linguagem que eu mais gosto!*
+*- Tenho 23 aninhos, migrei na área sem nenhum tipo de conhecimento prévio e hoje sou completamente apaixonada pelo que escolhi, pretendo seguir muito nessa carreira. Atualmente em formação em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí(IFPI), me aventuro em todas as áreas que o universo de tecnologia pode proporcionar, mestre em criar bugs e não tem essa de qual a linguagem que eu mais gosto!*
 
 <br>
 <br>
