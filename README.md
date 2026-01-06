@@ -1,9 +1,7 @@
-## Hello devs, my name is Sara Vieira!🌑
+## Hello devs, my name is Sara Vieira! 🌑
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/thedevsara/thedevsara/assets/142101366/a74fd5df-22c9-42b7-b838-5b4daa2666be">
 
-
-*- Tenho 23 aninhos, migrei na área sem nenhum tipo de conhecimento prévio e hoje sou completamente apaixonada pelo que escolhi, pretendo seguir muito nessa carreira. Atualmente em formação em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí(IFPI), me aventuro em todas as áreas que o universo de tecnologia pode proporcionar, mestre em criar bugs e não tem essa de qual a linguagem que eu mais gosto!*
-
+*Career changer and software developer passionate about technology and its power to transform ideas into real-world solutions. Currently pursuing a degree in Analysis and Systems Development at the Federal Institute of Piauí (IFPI). My journey is defined by continuous curiosity and self-taught learning, exploring various languages and tools to build a versatile and resilient professional profile. I believe every bug is a learning opportunity and I am always seeking the next technological challenge.*
 <br>
 <br>
 
@@ -30,6 +28,7 @@
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+
 ### *Databases*
 
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"> <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"> 
