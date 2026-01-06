@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/thedevsara">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thedevsara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thedevsara&layout=compact&langs_count=10&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thedevsara&layout=compact&langs_count=10&theme=algolia&count_private=true&hide=html,css"/>
 </a>
 </p>
 <br>
@@ -19,15 +19,13 @@
 ## 🖥️ Developing skills in: 💪
 <img width="250px" align="right" src="https://github.com/thedevsara/thedevsara/assets/142101366/6893df73-7707-4e1d-8767-91ed63b70b4b">
 
-### *Technologies*
+### *Programming Languages*
 <p align="left">
   <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> 
   <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /> 
   <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/> 
   <img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
   <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" /> 
-  <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> 
-  <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 </p>
 
 ### *Databases*
