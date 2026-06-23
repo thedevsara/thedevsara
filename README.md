@@ -1,7 +1,7 @@
 ## Hello devs, my name is Sara Vieira! 🌑
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/thedevsara/thedevsara/assets/142101366/a74fd5df-22c9-42b7-b838-5b4daa2666be">
 
-*Career changer and software developer passionate about technology and its power to transform ideas into real-world solutions. Currently pursuing a degree in Analysis and Systems Development at the Federal Institute of Piauí (IFPI). My journey is defined by continuous curiosity and self-taught learning, exploring various languages and tools to build a versatile and resilient professional profile. I believe every bug is a learning opportunity and I am always seeking the next technological challenge.*
+*I am an undergraduate student in Systems Analysis and Development at the Federal Institute of Piauí (IFPI). I am passionate about technology and its power to transform ideas into real solutions. All my knowledge is marked by constant curiosity and self-directed learning, exploring various languages ​​and tools to build a versatile and resilient professional profile. I believe that every challenge is an opportunity for learning and growth.*
 
 <br>
 
