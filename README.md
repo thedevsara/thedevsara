@@ -30,7 +30,6 @@
 
 ### *Databases*
 <p align="left">
-  <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"> 
   <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
 </p>
 
